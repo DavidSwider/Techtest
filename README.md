@@ -87,7 +87,7 @@ To run Cypress tests:
    ```
 2. **Open Cypress UI:**
    ```sh
-  npx cypress run --browser electron --headless
+   npx cypress run --browser electron --headless
    ```
 3. Select the **test file** and run the tests.
 
