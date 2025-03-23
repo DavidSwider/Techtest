@@ -1,0 +1,17 @@
+[{
+    "question":"pick an answer",
+    "answers":[
+        {
+            "text":"choices", "isCorrect": true
+        },
+        {
+            "text":"choices", "isCorrect": false
+        },
+        {
+            "text":"choices", "isCorrect": false
+        },
+        {
+            "text":"choices", "isCorrect": false
+        }
+    ]
+}]
